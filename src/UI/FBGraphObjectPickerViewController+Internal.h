@@ -35,7 +35,7 @@
  Not all FBGraphObjectPickerViewController subclasses support multiple selection, but
  there is a shared implementation for those that do.
  */
-@property (nonatomic) BOOL allowsMultipleSelection;
+//@property (nonatomic) BOOL allowsMultipleSelection;
 
 /*!
  @abstract
